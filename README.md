@@ -6,6 +6,6 @@ The circuit could be [directly fixed on top of the Raspberry Pi] as a shield and
 The circuit is designed only to be used with a set of three parallel LED’s for a cumulative current of 60mA. If the number of LED’s are changing the current limiting resistors (R3,R6,R9) should be changed as required. 
 
 ###Documents:
-[Schematic diagram]
-[Circuit  design]
+* [Schematic diagram]
+* [Circuit  design]
 
