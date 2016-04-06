@@ -5,7 +5,7 @@ The circuit could be [directly fixed on top of the Raspberry Pi](https://raw.git
 
 The circuit is designed only to be used with a set of three parallel LED’s for a cumulative current of 60mA. If the number of LED’s are changing the current limiting resistors (R3,R6,R9) should be changed as required. 
 
-A sample programme for the circuit could be found at [MedBox-2.0-progamme](https://github.com/bitandbytes/MedBox-2.0-progamme/)
+A sample programme for the circuit could be found at [MedBox 2.0 progamme]repository(https://github.com/bitandbytes/MedBox-2.0-progamme/)
 
 ####Documents:
 * [Schematic diagram](https://github.com/bitandbytes/LED-power-circuit-for-RPi/blob/master/Schematic.pdf)
